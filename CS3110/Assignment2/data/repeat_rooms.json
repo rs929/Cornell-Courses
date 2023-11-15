@@ -1,0 +1,30 @@
+{
+  "rooms": [
+    {
+      "id": "the cool room",
+      "description": "A very lonely room.",
+      "exits": []
+    },
+    {
+      "id": "the room",
+      "description": "A very lonely room.",
+      "exits": []
+    },
+    {
+      "id": "the room",
+      "description": "A very lonely room.",
+      "exits": []
+    },
+    {
+      "id": "the room2",
+      "description": "A very lonely room.",
+      "exits": []
+    },
+    {
+      "id": "the room2",
+      "description": "A very lonely room.",
+      "exits": []
+    }
+  ],
+  "start room": "the cool room"
+}

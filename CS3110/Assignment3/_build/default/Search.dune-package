@@ -1,0 +1,153 @@
+(lang dune 3.7)
+(name Search)
+(sections (lib .) (libexec .) (doc ../../doc/Search))
+(files
+ (lib
+  (META
+   author.ml
+   author.mli
+   dictionary.ml
+   dictionary.mli
+   dictionarySet.ml
+   dictionarySet.mli
+   dune-package
+   engine.ml
+   engine.mli
+   listDictionary.ml
+   listDictionary.mli
+   listEngine.ml
+   listEngine.mli
+   opam
+   search.a
+   search.cma
+   search.cmi
+   search.cmt
+   search.cmx
+   search.cmxa
+   search.ml
+   search__Author.cmi
+   search__Author.cmt
+   search__Author.cmti
+   search__Author.cmx
+   search__Dictionary.cmi
+   search__Dictionary.cmt
+   search__Dictionary.cmti
+   search__Dictionary.cmx
+   search__DictionarySet.cmi
+   search__DictionarySet.cmt
+   search__DictionarySet.cmti
+   search__DictionarySet.cmx
+   search__Engine.cmi
+   search__Engine.cmt
+   search__Engine.cmti
+   search__Engine.cmx
+   search__ListDictionary.cmi
+   search__ListDictionary.cmt
+   search__ListDictionary.cmti
+   search__ListDictionary.cmx
+   search__ListEngine.cmi
+   search__ListEngine.cmt
+   search__ListEngine.cmti
+   search__ListEngine.cmx
+   search__StringKey.cmi
+   search__StringKey.cmt
+   search__StringKey.cmx
+   search__TreeDictionary.cmi
+   search__TreeDictionary.cmt
+   search__TreeDictionary.cmti
+   search__TreeDictionary.cmx
+   search__TreeEngine.cmi
+   search__TreeEngine.cmt
+   search__TreeEngine.cmti
+   search__TreeEngine.cmx
+   search__Util.cmi
+   search__Util.cmt
+   search__Util.cmti
+   search__Util.cmx
+   stringKey.ml
+   treeDictionary.ml
+   treeDictionary.mli
+   treeEngine.ml
+   treeEngine.mli
+   util.ml
+   util.mli))
+ (libexec (search.cmxs))
+ (doc (LICENSE)))
+(library
+ (name Search)
+ (kind normal)
+ (archives (byte search.cma) (native search.cmxa))
+ (plugins (byte search.cma) (native search.cmxs))
+ (native_archives search.a)
+ (requires str unix)
+ (main_module_name Search)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name search)
+     (visibility public)
+     (kind alias)
+     (source (path Search) (impl (path search.ml-gen))))
+    (name Search)
+    (modules
+     (module
+      (obj_name search__Author)
+      (visibility public)
+      (source (path Author) (intf (path author.mli)) (impl (path author.ml))))
+     (module
+      (obj_name search__Dictionary)
+      (visibility public)
+      (source
+       (path Dictionary)
+       (intf (path dictionary.mli))
+       (impl (path dictionary.ml))))
+     (module
+      (obj_name search__DictionarySet)
+      (visibility public)
+      (source
+       (path DictionarySet)
+       (intf (path dictionarySet.mli))
+       (impl (path dictionarySet.ml))))
+     (module
+      (obj_name search__Engine)
+      (visibility public)
+      (source (path Engine) (intf (path engine.mli)) (impl (path engine.ml))))
+     (module
+      (obj_name search__ListDictionary)
+      (visibility public)
+      (source
+       (path ListDictionary)
+       (intf (path listDictionary.mli))
+       (impl (path listDictionary.ml))))
+     (module
+      (obj_name search__ListEngine)
+      (visibility public)
+      (source
+       (path ListEngine)
+       (intf (path listEngine.mli))
+       (impl (path listEngine.ml))))
+     (module
+      (obj_name search__StringKey)
+      (visibility public)
+      (source (path StringKey) (impl (path stringKey.ml))))
+     (module
+      (obj_name search__TreeDictionary)
+      (visibility public)
+      (source
+       (path TreeDictionary)
+       (intf (path treeDictionary.mli))
+       (impl (path treeDictionary.ml))))
+     (module
+      (obj_name search__TreeEngine)
+      (visibility public)
+      (source
+       (path TreeEngine)
+       (intf (path treeEngine.mli))
+       (impl (path treeEngine.ml))))
+     (module
+      (obj_name search__Util)
+      (visibility public)
+      (source (path Util) (intf (path util.mli)) (impl (path util.ml))))))
+   (wrapped true))))

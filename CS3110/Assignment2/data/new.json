@@ -1,0 +1,147 @@
+{
+  "rooms": [
+    {
+      "id": "Statler Hall",
+      "description": "You wake up on the cold dirty floor of Statler Auditorium. You don’t remember anything besides the fact that maybe you should not have drinken so much chocolate milk last night. Mind still foggy, you reach into your pocket and find a note. It reads: \n <You are the chosen one, it is your task to defeat the source of the darkness that purges the Engineering Quad>",
+      "exits": [
+        {
+          "name": "go_outside",
+          "room id": "Outside"
+        },
+        {
+          "name": "stay_inside",
+          "room id": "Statler Hall Again"
+        }
+      ]
+    },
+    {
+      "id": "Statler Hall Again",
+      "description": "Seriously, Cmon, you can't stay inside forever. Go touch some grass!",
+      "exits": [
+        {
+          "name": "go_outside",
+          "room id": "Outside"
+        }
+      ]
+    },
+    {
+      "id": "Outside",
+      "description": "You go outside and face Campus Road. You see Olin Hall on the East, and Duffield on the South",
+      "exits": [
+        {
+          "name": "south",
+          "room id": "Duffield Hall"
+        },
+        {
+          "name": "east",
+          "room id": "Olin Hall"
+        },
+        {
+          "name": "statler",
+          "room id": "Statler Hall Again"
+        },
+        {
+          "name": "bus_stop",
+          "room id": "Bus"
+        }
+      ]
+    },
+    {
+      "id": "Olin Hall",
+      "description": "You walk into Olin hall and are entranced by the smell of Coffee. You run over to the cafe and spend $10 on a drink, leaving with a happy mood, but a sad wallet.",
+      "exits": [
+        {
+          "name": "go_outside",
+          "room id": "Outside"
+        }
+      ]
+    },
+    {
+      "id": "Duffield Hall",
+      "description": "You enter Duffield Hall, and feel a chill down your spine as you find the place in ruins. Tables, chairs, and engineers are scattered all across the floor. In the corner of your eye, you see a faint red glow coming from the south door",
+      "exits": [
+        {
+          "name": "go_outside",
+          "room id": "Outside"
+        },
+        {
+          "name": "south",
+          "room id": "Upson Hall"
+        },
+        {
+          "name": "west",
+          "room id": "Gates Hall"
+        }
+      ]
+    },
+    {
+      "id": "Upson Hall",
+      "description": "You enter Upson hall as the red glow grows brighter. As you turn the corner, you are met by an angry mob of unfinished psets! \n WHAT DO YOU DO?",
+      "exits": [
+        {
+          "name": "run",
+          "room id": "Engineering Quad"
+        },
+        {
+          "name": "fight",
+          "room id": "Game Over"
+        }
+      ]
+    },
+    {
+      "id": "Gates Hall",
+      "description": "You enter the Duffield west exit and reach the entrance of Gates Hall. You scan your card, and the scanner screams back at you. You do not have Gates Access :(",
+      "exits": [
+        {
+          "name": "sad",
+          "room id": "Duffield Hall"
+        }
+      ]
+    },
+    {
+      "id": "Bus",
+      "description": "You wait at the bus stop for a few minutes, and eventually a bus shows up. You get on an swipe your card, but the reader screams back at you. You no longer have an unlimited bus pass :(",
+      "exits": [
+        {
+          "name": "go_outside",
+          "room id": "Outside"
+        }
+      ]
+    },
+    {
+      "id": "Game Over",
+      "description": "You fight valiently against the swarm of ruthless assignments, but to no avail. You perish to the onslaught of late assignments\n GAME OVER",
+      "exits": [
+        {
+          "name": "restart",
+          "room id": "Statler Hall"
+        }
+      ]
+    },
+    {
+      "id": "Engineering Quad",
+      "description": "You sprint towards the exit to the Engineering quad, not looking back as the swarm of angry psets chases after you. You make it to the engineering quad, and you see a glistening patch of pristene grass. \nWhat do you do?",
+      "exits": [
+        {
+          "name": "dont",
+          "room id": "Game Over"
+        },
+        {
+          "name": "touch_the_grass",
+          "room id": "Win"
+        }
+      ]
+    },
+    {
+      "id": "Win",
+      "description": "You touch the grass and feel a calming and grounding sensation, as you connect with the natural world and take a moment to appreciate the beauty of the outdoors. It is invigorating and you feel alive. \n As you pull back your hand, you feel the ground shake, and everything around you starts to regenerate. The Engineering Quad has been restored! You have succeeded in your noble quest. \n Congratulations! \n Thank you for playing!",
+      "exits": [
+        {
+          "name": "play_again",
+          "room id": "Statler Hall"
+        }
+      ]
+    }
+  ],
+  "start room": "Statler Hall"
+}

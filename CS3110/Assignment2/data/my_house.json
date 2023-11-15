@@ -1,0 +1,75 @@
+{
+  "rooms": [
+    {
+      "id": "my room",
+      "description": "My bedroom",
+      "exits": [
+        {
+          "name": "south",
+          "room id": "the living room"
+        },
+        {
+          "name": "east",
+          "room id": "the bathroom"
+        }
+      ]
+    },
+    {
+      "id": "the bathroom",
+      "description": "A very clean bathroom.",
+      "exits": [
+        {
+          "name": "west",
+          "room id": "my room"
+        }
+      ]
+    },
+    {
+      "id": "the living room",
+      "description": "A very nice living room.",
+      "exits": [
+        {
+          "name": "north",
+          "room id": "my room"
+        },
+        {
+          "name": "south",
+          "room id": "the kitchen"
+        },
+        {
+          "name": "east",
+          "room id": "the garage"
+        }
+      ]
+    },
+    {
+      "id": "the kitchen",
+      "description": "A very nice kitchen.",
+      "exits": [
+        {
+          "name": "north",
+          "room id": "the living room"
+        },
+        {
+          "name": "east",
+          "room id": "the garage"
+        }
+      ]
+    },
+    {
+      "id": "the garage",
+      "description": "A very lonely room.",
+      "exits": [
+        {
+          "name": "northwest",
+          "room id": "the living room"
+        },
+        {
+          "name": "southwest",
+          "room id": "the kitchen"
+        }
+      ]
+    }
+  ],
+  "start room": "my room"
+}

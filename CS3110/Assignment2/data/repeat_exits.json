@@ -1,0 +1,27 @@
+{
+  "rooms": [
+    {
+      "id": "the cool room",
+      "description": "A very lonely room.",
+      "exits": [
+        {
+          "name": "exit1",
+          "room id": "tower"
+        },
+        {
+          "name": "exit1",
+          "room id": "tower"
+        },
+        {
+          "name": "exit2",
+          "room id": "tower2"
+        },
+        {
+          "name": "exit2",
+          "room id": "tower2"
+        }
+      ]
+    }
+  ],
+  "start room": "the cool room"
+}
