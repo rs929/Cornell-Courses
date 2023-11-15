@@ -1,0 +1,15 @@
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: Start test arraylist test suite:1:add; size.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: Test arraylist test suite:1:add; size is successful.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: End test arraylist test suite:1:add; size.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: Start test arraylist test suite:4:get too big.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: Test arraylist test suite:4:get too big is successful.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: End test arraylist test suite:4:get too big.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: Start test arraylist test suite:6:grow many; get all; size.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: Test arraylist test suite:6:grow many; get all; size exited with an error.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: Invalid_argument("index out of bounds") in test arraylist test suite:6:grow many; get all; size.
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: Raised by primitive operation at Arraylist.grow in file "src/arraylist.ml", line 19, characters 2-31
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: Called from Arraylist.add in file "src/arraylist.ml", line 24, characters 29-40
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: Called from Dune__exe__Main.grow_test in file "test/main.ml", line 30, characters 7-15
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 E: 
+2023-03-21T19:59:26+00:00 dhcp-vl2041-1841.eduroam.cornell.edu#02 I: End test arraylist test suite:6:grow many; get all; size.

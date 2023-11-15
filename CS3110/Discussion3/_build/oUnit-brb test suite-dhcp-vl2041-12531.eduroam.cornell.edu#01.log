@@ -1,0 +1,9 @@
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test brb test suite:0:zero balance.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test brb test suite:0:zero balance is successful.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test brb test suite:0:zero balance.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test brb test suite:2:deposit 12500c.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test brb test suite:2:deposit 12500c is successful.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test brb test suite:2:deposit 12500c.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test brb test suite:3:deposit 1000c pay 100c.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test brb test suite:3:deposit 1000c pay 100c is successful.
+2023-02-14T20:41:26+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test brb test suite:3:deposit 1000c pay 100c.

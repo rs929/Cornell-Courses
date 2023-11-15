@@ -1,0 +1,13 @@
+#oddt
+      if thelist[0]%2 != 0:
+          print('odd')
+          result = thelist[:]
+          print(result)
+          return result
+  #even oddter
+  elif thelist[0]%2 == 0:
+      print (thelist[0])
+      print('even')
+      result = thelist[1:] + list([thelist[0]])
+      print(result)
+      return result

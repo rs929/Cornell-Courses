@@ -1,0 +1,15 @@
+Alien Assassin Additional Features:
+
+1. Allow the player to select the type of ship that they would like to play with
+The different types of ships were displayed on the title screen with corresponding numbers
+that represent the number key that the player has to press to select that ship, as well as dismiss the title screen. Rather than using the ship and ship sprite provided, we acquired copyright free ship images and(license included in image folder) created our own sprites for each of them using copyright free explosion images
+
+2. Displayed player lives with heart PNGs in the top left corner of the screen. Heart PNG images are royalty and copyright free and obtained from a website that provides royalty free game assets
+
+3. Implemented 3 alien waves ,each with increasing speed (doubled each wave), and the player must defeat all 3 waves to win the game. The number of the wave is also displayed in the top right corner of the screen
+
+4. Implemented background music as well as sound effects for alien shooting, ship shooting, alien deaths, and player explosion. All wav sound files are copyright or royalty free or provided in the source code files. Implemented mute feature that allows the player to mute all sounds by pressing the m key after dismissing the title screen
+
+5. Implemented background for title screen along with game title and background for the game during gameplay
+
+6. Implemented scoring system with aliens closer to the bottom being worth less points and point values increasing (EX: row 1: 10pts, row 2: 20pts, row 3: 30pts...). Score is displayed on the top middle of the screen and carries over with each wave.
