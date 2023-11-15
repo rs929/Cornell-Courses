@@ -1,0 +1,119 @@
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:0:index of A is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:0:index of A is 0 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:0:index of A is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:2:index of C is 2.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:2:index of C is 2 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:2:index of C is 2.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:3:index of K is 10.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:3:index of K is 10 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:3:index of K is 10.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:5:index of L is 11.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:5:index of L is 11 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:5:index of L is 11.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:7:index of Y is 24.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:7:index of Y is 24 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:7:index of Y is 24.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:9:map_rl of 0 is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:9:map_rl of 0 is 0 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:9:map_rl of 0 is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:11:map_rl of 1 is 3.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:11:map_rl of 1 is 3 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:11:map_rl of 1 is 3.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:13:map_rl of 25 is 1.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:13:map_rl of 25 is 1 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:13:map_rl of 25 is 1.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:15:map_rl of 20 is 11.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:15:map_rl of 20 is 11 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:15:map_rl of 20 is 11.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:17:map_lr of 0 is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:17:map_lr of 0 is 0 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:17:map_lr of 0 is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:19:map_lr of 3 is 1.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:19:map_lr of 3 is 1 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:19:map_lr of 3 is 1.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:21:map_lr of 1 is 25.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:21:map_lr of 1 is 25 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:21:map_lr of 1 is 25.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:22:map_lr of 9 is 23.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:22:map_lr of 9 is 23 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:22:map_lr of 9 is 23.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:24:map_lr of 16 is 25.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:24:map_lr of 16 is 25 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:24:map_lr of 16 is 25.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:26:map_ref of 5 is 5.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:26:map_ref of 5 is 5 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:26:map_ref of 5 is 5.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:28:map_ref of 7 is 3.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:28:map_ref of 7 is 3 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:28:map_ref of 7 is 3.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:30:map_ref of 0 is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:30:map_ref of 0 is 0 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:30:map_ref of 0 is 0.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:32:map_ref of 7 is 24.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:32:map_ref of 7 is 24 is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:32:map_ref of 7 is 24.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:34:map_plug of A is Z.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:34:map_plug of A is Z is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:34:map_plug of A is Z.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:36:map_plug of Y is X.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:36:map_plug of Y is X is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:36:map_plug of Y is X.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:38:map_plug of Z is E.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:38:map_plug of Z is E is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:38:map_plug of Z is E.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:40:map_plug of D is C.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:40:map_plug of D is C is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:40:map_plug of D is C.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:42:cipher A to A.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:42:cipher A to A is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:42:cipher A to A.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:44:cipher Z to X.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:44:cipher Z to X is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:44:cipher Z to X.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:46:cipher A to R.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:46:cipher A to R is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:46:cipher A to R.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:48:cipher X to A.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:48:cipher X to A is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:48:cipher X to A.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:50:cipher Y to X.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:50:cipher Y to X is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:50:cipher Y to X.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:52:cipher A to C.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:52:cipher A to C is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:52:cipher A to C.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:54:cipher M to P.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Test test suite for A1:54:cipher M to P is successful.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:54:cipher M to P.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:57:Step rotorI from M to N.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Test test suite for A1:57:Step rotorI from M to N exited with an error.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Failure("Unimplemented: Enigma.step") in test test suite for A1:57:Step rotorI from M to N.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Raised at Enigma.step in file "src/enigma.ml", line 130, characters 2-46
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from Dune__exe__Main.step_test.(fun) in file "test/main.ml", line 45, characters 31-42
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: 
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:57:Step rotorI from M to N.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:59:Step rotorI, II, III from M to N.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Test test suite for A1:59:Step rotorI, II, III from M to N exited with an error.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Failure("Unimplemented: Enigma.step") in test test suite for A1:59:Step rotorI, II, III from M to N.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Raised at Enigma.step in file "src/enigma.ml", line 130, characters 2-46
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from Dune__exe__Main.step_test.(fun) in file "test/main.ml", line 45, characters 31-42
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: 
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:59:Step rotorI, II, III from M to N.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:61:cipher WORLD to KIXDI.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Test test suite for A1:61:cipher WORLD to KIXDI exited with an error.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Failure("Unimplemented: Enigma.cipher") in test test suite for A1:61:cipher WORLD to KIXDI.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Raised at Enigma.cipher in file "src/enigma.ml", line 136, characters 2-48
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from Dune__exe__Main.cipher_test.(fun) in file "test/main.ml", line 50, characters 31-48
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: 
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:61:cipher WORLD to KIXDI.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: Start test test suite for A1:63:cipher RICHIE to VOEKDN.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Test test suite for A1:63:cipher RICHIE to VOEKDN exited with an error.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Failure("Unimplemented: Enigma.cipher") in test test suite for A1:63:cipher RICHIE to VOEKDN.
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Raised at Enigma.cipher in file "src/enigma.ml", line 136, characters 2-48
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from Dune__exe__Main.cipher_test.(fun) in file "test/main.ml", line 50, characters 31-48
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 E: 
+2023-02-16T02:29:34+00:00 dhcp-vl2041-12531.eduroam.cornell.edu#01 I: End test test suite for A1:63:cipher RICHIE to VOEKDN.
