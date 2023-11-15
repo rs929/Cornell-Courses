@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Home | Ithaca Zoo</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="styles/site.css">
+</head>
+
+<body>
+  <main>
+    <h2>Pre-Order Tickets for Express Pick-up</h2>
+
+    <!-- Note: This code is correct. Please do not change it. -->
+    <form id="preorder-form" method="post" action="success.html" novalidate>
+
+      <div id="feedback-name" class="preorder-feedback hidden">∗ Please provide a name for pick-up.</div>
+      <div class="labelComponentPair">
+        <label for="preorder-name">Name: </label>
+        <input id="preorder-name" name="preorder-name" required>
+      </div>
+
+      <div id="feedback-email" class="preorder-feedback hidden">∗ Please enter a valid email address.</div>
+      <div class="labelComponentPair">
+        <label for="preorder-email">Email: </label>
+        <input type="email" id="preorder-email" name="preorder-email" required>
+      </div>
+
+      <div id="feedback-tickets" class="preorder-feedback hidden">∗ Please pre-order at least 1 ticket.</div>
+      <div class="labelComponentPair">
+        <label for="preorder-tickets">Number of Tickets: </label>
+        <input type="number" id="preorder-tickets" name="preorder-tickets" value="0" min="1" required>
+      </div>
+
+      <div id="feedback-location" class="preorder-feedback hidden">∗ Please select the pickup location.</div>
+      <div class="labelComponentPair">
+        <label for="preorder-location">Pickup Location: </label>
+        <select id="preorder-location" name="preorder-location" required>
+          <option value="" disabled selected>Select Location...</option>
+          <option value="north">North Entrance</option>
+          <option value="east">East Entrance</option>
+          <option value="downtown">Downtown Ithaca Office</option>
+        </select>
+      </div>
+
+      <button id="preorder-button" type="submit">Pre-Order</button>
+    </form>
+  </main>
+
+  <script src="scripts/jquery-3.6.1.js"></script>
+  <script src="scripts/preorder-validation.js"></script>
+</body>
+
+</html>

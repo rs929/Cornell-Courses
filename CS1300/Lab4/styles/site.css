@@ -1,0 +1,58 @@
+body {
+  background-color: #d9f5df;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  background-color: rgb(5, 192, 30);
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 10px;
+}
+
+em {
+  font-style: italic;
+  font-weight:400;
+  color: rgb(255, 0, 0)
+}
+p em {
+  font-style: italic;
+  font-weight:400;
+  color: rgb(20, 243, 255)
+}
+
+li a {
+  color:rgb(255, 255, 255);
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 1px;
+  margin-bottom: 10px;
+  background-color: rgb(5, 192, 30);
+}
+
+dt {
+  color:rgb(6, 146, 25);
+  text-decoration:underline
+}
+
+img {
+  border-radius: 20px;
+}

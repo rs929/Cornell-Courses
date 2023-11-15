@@ -1,0 +1,68 @@
+body {
+  /* Do not change these properties. They are correct. */
+  font-family: sans-serif;
+  font-size: 120%;
+}
+
+h1 {
+  /* Do not change these properties. They are correct. */
+  margin: 10px;
+}
+
+div {
+  /* Do not change these properties. They are correct. */
+  color: white;
+  font-weight: bold;
+  text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
+
+.row {
+  /* TODO: add additional properties here. */
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  /* Do not change these properties. They are correct. */
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+
+  /* TODO: add additional properties here. */
+  width: 200px;
+}
+
+.box1 {
+  /* Do not change these properties. They are correct. */
+  background-color: #0F8B93;
+}
+
+.box2 {
+  /* Do not change these properties. They are correct. */
+  background-color: #F7EEB3;
+}
+
+.box3 {
+  /* Do not change these properties. They are correct. */
+  background-color: #F86015;
+}
+
+.box4 {
+  /* Do not change these properties. They are correct. */
+  background-color: #FCC139;
+}
+
+.box5 {
+  /* Do not change these properties. They are correct. */
+  background-color: #512929;
+}
+
+.box6 {
+  /* Do not change these properties. They are correct. */
+  background-color: #857e79;
+}
